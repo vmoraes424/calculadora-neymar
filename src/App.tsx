@@ -3,12 +3,9 @@ import { useState } from "react";
 export default function App() {
   const [neymares, setNeymares] = useState(0);
   const [massa, setNeymassas] = useState(0);
-  // const [neygundo, setNeygundo] = useState(0);
   const [altura, setAltura] = useState<number | undefined>(undefined);
   const [peso, setPeso] = useState<number | undefined>(undefined);
 
-  // const velocidadeNey = 34.83
-  // const horaNey = 12.7
   const alturaNey = 175
   const pesoNey = 68
 
