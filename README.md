@@ -5,3 +5,5 @@ Nossa calculadora foi baseada na figura mais importante atualmente do Brasil, o 
 Atualmente temos as seguintes medidas:
 - Neymares (altura)
 - Neymassas (peso)
+
+Acesse [o site](calculadora-neymar.vercel.app) e saiba suas medidas!
